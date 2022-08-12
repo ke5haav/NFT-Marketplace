@@ -98,3 +98,5 @@ describe("buy multiple nfts", async()=>{
   
 
 })
+
+console.log("Awesome !!!!")
